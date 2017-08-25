@@ -1,0 +1,12 @@
+{
+    "assignmentID": 159,
+    "problems": {
+        "cs3520-sml_part_1": {
+            "id": 31,
+            "step": 1,
+            "whitelist": {
+                "functions.sml": true
+            }
+        }
+    }
+}
